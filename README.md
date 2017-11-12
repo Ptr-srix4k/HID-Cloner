@@ -7,3 +7,5 @@ Program to clone 26 bit HID card using a cheap RFID reader (https://www.aliexpre
 - Open "HID Cloner.exe"
 - Read wave file and put a T5577 card on top of the reader to clone it
 - Done!
+
+You MUST download the SRF32.dll file together with "HID cloner.exe" to make it work
